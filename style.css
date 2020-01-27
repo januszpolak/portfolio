@@ -109,12 +109,14 @@ button:hover {
 
 }
 
+.foto {
+    width: 100vw;
+}
+
 img {
     display: flex;
-    width: 70%;
-    margin-top: 15%;
-    margin-bottom: 15%;
-    margin-left: 10%;
+    width: 100%;
+    padding: 10% 0 10% 10%;
 
 }
 
